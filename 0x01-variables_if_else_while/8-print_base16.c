@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- *  * main - Entry point
- *   *
- *    * Return: Always 0 (Success)
- *     *
- *      * This program will print hexadecimal numbers using only putchar()
- *       */
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ *
+ * This program will print hexadecimal numbers using only putchar()
+ */
 int main(void)
 {
 	char alpha = 'a';
